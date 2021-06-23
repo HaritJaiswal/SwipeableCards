@@ -17,7 +17,7 @@
 package swipeable.com.layoutmanager;
 
 import android.graphics.Canvas;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
 import swipeable.com.layoutmanager.touchelper.ItemTouchHelper;
 
