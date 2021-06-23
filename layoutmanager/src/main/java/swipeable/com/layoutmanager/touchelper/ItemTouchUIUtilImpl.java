@@ -18,10 +18,11 @@ package swipeable.com.layoutmanager.touchelper;
 
 import android.graphics.Canvas;
 import androidx.core.view.ViewCompat;
-import androidx.appcompat.recyclerview.R;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.ItemTouchUIUtil;
 import android.view.View;
+
+import swipeable.com.layoutmanager.R;
 
 /**
  * Package private class to keep implementations. Putting them inside ItemTouchUIUtil makes them

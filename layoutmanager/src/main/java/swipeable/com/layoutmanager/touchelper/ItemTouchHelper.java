@@ -42,6 +42,8 @@ import android.view.ViewParent;
 import android.view.animation.Interpolator;
 import java.util.ArrayList;
 import java.util.List;
+
+import swipeable.com.layoutmanager.R;
 import swipeable.com.layoutmanager.SwipeableTouchHelperCallback;
 
 /**
